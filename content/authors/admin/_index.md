@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Front End Developer
+role: Front End Developer
 
 # Organizations/Affiliations
 organizations:
