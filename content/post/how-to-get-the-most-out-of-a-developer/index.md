@@ -1,5 +1,5 @@
 ---
-title: How to get the most out of a developer
+title: Getting the most out of a developer
 subtitle: ''
 date: 2020-06-21T13:07:09.309Z
 draft: false
