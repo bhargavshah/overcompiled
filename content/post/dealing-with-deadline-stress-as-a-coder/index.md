@@ -7,7 +7,6 @@ featured: false
 tags:
   - software
   - front end
-  - development
   - mental health
   - stress management
   - coding

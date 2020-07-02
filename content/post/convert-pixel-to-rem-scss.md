@@ -4,8 +4,11 @@
 title: "Convert pixel values to rem, Sass style"
 subtitle: ""
 summary: ""
-authors: ['Bhargav Shah']
-tags: []
+tags:
+  - front end
+  - SCSS
+  - functions
+  - pixel to rem
 categories: []
 date: 2020-06-20T18:00:25+05:30
 lastmod: 2020-06-20T18:00:25+05:30
