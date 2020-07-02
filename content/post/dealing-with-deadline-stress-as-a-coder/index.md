@@ -4,7 +4,7 @@ subtitle: Have you ever worked on a high pressure, high burning, life sucking
   project? The stress is making you insane? Anxiety is all over your days,
   nights, meals and weekends? You can just not stop thinking about work?
 date: 2020-07-02T13:12:45.713Z
-draft: true
+draft: false
 featured: false
 authors:
   - Bhargav Shah
