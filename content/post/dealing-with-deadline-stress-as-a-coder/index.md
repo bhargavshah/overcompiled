@@ -1,13 +1,9 @@
 ---
 title: Dealing with deadline stress as a coder
-subtitle: Have you ever worked on a high pressure, high burning, life sucking
-  project? The stress is making you insane? Anxiety is all over your days,
-  nights, meals and weekends? You can just not stop thinking about work?
+subtitle:
 date: 2020-07-02T13:12:45.713Z
 draft: false
 featured: false
-authors:
-  - Bhargav Shah
 tags:
   - software
   - front end
@@ -16,10 +12,12 @@ tags:
   - stress management
   - coding
 image:
-  filename: design-desk-display-eyewear-313690.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
+Have you ever worked on a high pressure, high burning, life sucking project? The stress is making you insane? Anxiety is all over your days, nights, meals and weekends? You can just not stop thinking about work?
+
 If this experience sounds familiar, you are not alone. Turns out anxiety is common in software development profile, and every person feels it to varying extents. I have worked on a few such projects. As I started having self awareness of the emotions I was going through, I decided to act on it.
 
 The techniques explained in this post do not bring about immediate change. They are dense and take time to get used to. I dealt with it in two fronts; technical and emotional.
@@ -46,7 +44,7 @@ I created a Trello board, that tracked tasks based on these parameters.
 
 *Note: [Trello](https://trello.com/) is an awesome tool to make organized lists.*
 
-<img src="https://373901-1170275-1-raikfcquaxqncofqfm.stackpathdns.com//wp-content/uploads/2020/02/The-Eisenhower-Decision-Matrix-png-1024x768.png" alt="img" style="zoom:75%;" />
+<img src="https://373901-1170275-1-raikfcquaxqncofqfm.stackpathdns.com//wp-content/uploads/2020/02/The-Eisenhower-Decision-Matrix-png-1024x768.png" alt="Eisenhower decision matrix" style="zoom:75%;" />
 
 When you categorize tasks like this, it is easy for your brain to naturally pick up what's right for the moment. You might still need to prioritize between tasks of the same quadrant, but that would be simpler, now that you have fewer tasks there.
 
@@ -85,18 +83,22 @@ You can go in the following phases to deal with stress -
 
   ##### When you are working
 
-  1. Time management.
-  2. Take short breaks after every few hours.
-  3. Get shit done.
+  1. Time management
+  2. Take short breaks after every few hours
+  3. Get shit done
 
   ##### When you are not working
 
   1. Writing a gratefulness list
-  2. Exercise - Can be as simple as running, walking, shuffling.
-  3. Watch a funny or inspirational movie.
-  4. Go on a holiday.
+  2. Exercise - Can be as simple as running, walking, shuffling
+  3. Watch a funny or inspirational movie
+  4. Go on a holiday
+  5. Meditate
+  6. Play a physical sport
 
-  The "When you are working" list is straigtforward, the more you do it, the better results you will get. The "When you are not working" list is subjective but not exhaustive, do whatever takes your mind off work. Some of them may not be always feasible, and it's okay to not do them. I made it a point to do something that can be done everyday, for example, exercise.
+  <br/>
+
+  The **When you are working** list is straigtforward, the more you do it, the better results you will get. The **When you are not working** list is subjective but not exhaustive, do whatever takes your mind off work. Some of them may not be always feasible, and it's okay to not do them. I made it a point to do something that can be done everyday, for example, exercise.
 
 ## Emotional front
 
@@ -119,3 +121,7 @@ A big reason why you are in this difficult situation, is because you are capable
 > ## The people crazy enough to think they can change the world are the ones who do.
 >
 > Rob Siltanen
+
+![img](https://images.unsplash.com/photo-1506126613408-eca07ce68773?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2202&q=80)
+
+Be patient, there will be light.
