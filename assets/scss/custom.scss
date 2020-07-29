@@ -1,0 +1,7 @@
+body.dark {
+  kbd {
+    // Inverse during dark theme
+    background-color: $kbd-color;
+    color: $kbd-bg;
+  }
+}
