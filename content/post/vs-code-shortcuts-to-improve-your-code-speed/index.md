@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Easy VS Code shortcuts that improve code speed"
-tags: ["productivity", "vscode", "tricks", "coding", "frontend"]
+tags: ["productivity", "vscode shortcuts", "tricks", "coding", "frontend"]
 date: 2020-07-11T16:11:50+05:30
 lastmod: 2020-07-11T16:11:50+05:30
 featured: false
@@ -17,7 +17,8 @@ You write code everyday, and there are probably a million small tasks that you d
 This list compiles the most easy to learn shortcuts.
 
 ## Delete line
-<kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>K</kbd>
+<i class="fab fa-apple mx-1" style="width: 25px" aria-label="Apple"></i><kbd>Cmd</kbd> <kbd>Shift</kbd> <kbd>K</kbd><br>
+<i class="fab fa-windows mx-1" style="width: 25px" aria-label="Windows"></i><kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>K</kbd>
 
 Deletes the entire line without needing to delete whitespaces and line break manually. You do not need to select the entire line, just having cursor on the line is enough. If you want to delete a line block instead, select all the lines, again you don't need to select the entire text, as long as your selection spreads on all the target lines, this shortcut works.
 
@@ -27,7 +28,8 @@ Deletes the entire line without needing to delete whitespaces and line break man
 <br>
 
 ## Move line
-<kbd>Option</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>
+<i class="fab fa-apple mx-1" style="width: 25px" aria-label="Apple"></i><kbd>Option</kbd> <kbd>↑</kbd> / <kbd>↓</kbd><br>
+<i class="fab fa-windows mx-1" style="width: 25px" aria-label="Windows"></i><kbd>Alt</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>
 
 Moves a line relative to other lines, mouse not needed whatsoever. This helps a great deal when reordering CSS properties, or moving a block of code inside a condition.
 
@@ -37,8 +39,8 @@ Moves a line relative to other lines, mouse not needed whatsoever. This helps a 
 <br>
 
 ## Clone line
-
-<kbd>Shift</kbd> <kbd>Option</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>
+<i class="fab fa-apple mx-1" style="width: 25px" aria-label="Apple"></i><kbd>Shift</kbd> <kbd>Option</kbd> <kbd>↑</kbd> / <kbd>↓</kbd><br>
+<i class="fab fa-windows mx-1" style="width: 25px" aria-label="Windows"></i><kbd>Shift</kbd> <kbd>Alt</kbd> <kbd>↑</kbd> / <kbd>↓</kbd>
 
 Makes a copy of a line above or below it. Neat trick to make temporary changes while debugging.
 
@@ -62,7 +64,8 @@ Renames all the occurences of a variable / function name by changing it in one p
 <br>
 
 ## Cut Copy Paste lines
-<kbd>Cmd</kbd> <kbd>X</kbd> / <kbd>C</kbd> / <kbd>V</kbd>
+<i class="fab fa-apple mx-1" style="width: 25px" aria-label="Apple"></i><kbd>Cmd</kbd> <kbd>X</kbd> / <kbd>C</kbd> / <kbd>V</kbd><br>
+<i class="fab fa-windows mx-1" style="width: 25px" aria-label="Windows"></i><kbd>Ctrl</kbd> <kbd>X</kbd> / <kbd>C</kbd> / <kbd>V</kbd>
 
 The most commonly used shortcuts, but did you know with VSCode you don't need to select the entire line to perform these? Just put your cursor on the target line and these work.
 
@@ -70,13 +73,6 @@ The most commonly used shortcuts, but did you know with VSCode you don't need to
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Av7T1nrzpQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-
-**Note**: *All the above shortcuts are for a Mac keyboard. If you use a Windows keyboard use the following keys instead*
-
-- <kbd>Cmd</kbd> -> <kbd>Ctrl</kbd>
-- <kbd>Option</kbd> -> <kbd>Alt</kbd>
-
-Memorizing and internalizing these shortcuts pay very well in the long run.
 
 ## Using these shortcuts from muscle memory
 
