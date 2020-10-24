@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Easy VS Code shortcuts that improve code speed"
-tags: ["productivity", "vscode shortcuts", "tricks", "coding", "frontend"]
+tags: ["productivity", "vscode shortcuts", "tricks", "frontend"]
+categories: ['Productivity']
 date: 2020-07-11T16:11:50+05:30
 lastmod: 2020-07-11T16:11:50+05:30
 featured: false
