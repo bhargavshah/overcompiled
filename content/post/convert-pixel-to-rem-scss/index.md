@@ -2,36 +2,25 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Convert pixel values to rem, Sass style"
-subtitle: ""
-summary: ""
+subtitle: Using Sass functions for DRY and expressive unit conversions
+summary: "Using Sass functions for DRY and expressive unit conversions"
+categories: ['CSS']
 tags:
-  - front end
-  - SCSS
-  - functions
   - pixel to rem
-categories: []
+  - SCSS
+  - SASS
+  - front end
+  - functions
 date: 2020-06-20T18:00:25+05:30
 lastmod: 2020-06-20T18:00:25+05:30
 featured: false
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  filename: featured.png
+  caption: "SASS logo"
+  focal_point: Smart
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
-![img](https://cdn-images-1.medium.com/max/1600/1*vzA3LuouczBEUKy8YggS_A.png)
-
 SCSS is a very widely used CSS pre-processer. Selector nesting, mixins, variables are some of the most used features of SCSS. One of the most unused and underrated SCSS feature is [functions](https://sass-lang.com/documentation/at-rules/function).
 
 ## Why use a function

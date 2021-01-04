@@ -2,6 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Easy VS Code shortcuts that improve code speed"
+subtitle: Micro investments for macro productivity returns
+summary: Micro investments for macro productivity returns
 tags: ["productivity", "vscode shortcuts", "tricks", "frontend"]
 categories: ['Productivity']
 date: 2020-07-11T16:11:50+05:30

@@ -1,7 +1,7 @@
 ---
 title: Bhargav Shah
 organizations:
-  - name: Deloitte
+  - name: ThoughtWorks
 superuser: true
 authors:
   - admin

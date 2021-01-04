@@ -1,15 +1,17 @@
 ---
-title: Dealing with deadline stress as a coder
-subtitle:
+title: Dealing with deadline stress
+subtitle: Losing stress without losing your mind
+summary: Losing stress without losing your mind
 date: 2020-07-02T13:12:45.713Z
 draft: false
 featured: false
+categories: ['Well being']
 tags:
   - software
   - front end
   - mental health
   - stress management
-  - coding
+  - well being
 image:
   filename: featured.jpg
   focal_point: Smart

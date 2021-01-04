@@ -1,9 +1,16 @@
 ---
 title: Getting the most out of a developer
-subtitle: ''
+subtitle: Build the right environment for the millenial developer
+summary: Build the right environment for the millenial developer
 date: 2020-06-21T13:07:09.309Z
 draft: false
 featured: false
+categories: ['Productivity', 'Leadership']
+tags:
+  - software
+  - productivity
+  - job satisfaction
+  - leadership
 image:
   filename: featured.jpg
   focal_point: SMART
