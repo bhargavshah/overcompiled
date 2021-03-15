@@ -71,11 +71,11 @@ Steps:
 
 4. Add an alias to initiate quick commits
 
-   All of this is great, but I don't want to type `git commit -t ./git-template` every time I want to make a commit. After all, the purpose of doing this is to reduce the repetitive typing!
+   All of this is great, but I don't want to type `git commit -t ./git-commit-template` every time I want to make a commit. After all, the purpose of doing this is to reduce the repetitive typing!
 
-   Add an alias `gc` for `git commit -t ./git-template`
+   Add an alias `gc` for `git commit -t ./git-commit-template`
 
-   Reference on how to add aliases, [Windows](https://superuser.com/questions/560519/how-to-set-an-alias-in-windows-command-line) & [Mac and Linux / Unix](https://flaviocopes.com/how-to-set-alias-shell/).
+   Reference on how to add aliases: [Windows](https://superuser.com/questions/560519/how-to-set-an-alias-in-windows-command-line) / [Mac and Linux / Unix](https://flaviocopes.com/how-to-set-alias-shell/).
 
    Now, every time you want to make a commit, you just have to type `gc`. That will open the message editor and you will only need to type the dynamic part of the commit message.
 
