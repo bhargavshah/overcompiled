@@ -20,4 +20,4 @@ social:
 email: "bhargav3shah@gmail.com"
 ---
 
-# I make front end apps that make people's lives easier
+# I build apps that make people's lives easier

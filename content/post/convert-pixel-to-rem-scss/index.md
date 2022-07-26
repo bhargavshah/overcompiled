@@ -6,11 +6,11 @@ subtitle: Using Sass functions for DRY and expressive unit conversions
 summary: "Using Sass functions for DRY and expressive unit conversions"
 categories: ['CSS']
 tags:
-  - pixel to rem
-  - SCSS
-  - SASS
+  - px to rem css
+  - scss px to rem
+  - sass px to rem
   - front end
-  - functions
+  - scss functions
 date: 2020-06-20T18:00:25+05:30
 lastmod: 2020-06-20T18:00:25+05:30
 featured: false
@@ -41,9 +41,11 @@ Define the function,
 
 ```
 $html-font-size: 16px;
+
 @function stripUnit($value) {
     @return $value / ($value * 0 + 1);
 }
+
 @function rem($pxValue) {
     @return #{stripUnit($pxValue) / stripUnit($html-font-size)}rem;
 }
@@ -53,11 +55,11 @@ Then you can use it like this,
 
 ```
 .component {
-    font-size: rem(14px); // or rem(14)
+    font-size: rem(16px); // or rem(16)
 }
 ```
 
-This will set `font-size: 0.875rem` to the element which has `component` CSS class. Do note, the value you pass to the function can be **with or without a unit**.
+This reads like convert <i>16px to rem</i> and will set `font-size: 1rem` to the element which has `component` CSS class. Do note, the value you pass to the function can be **with or without a unit**.
 
 ![img](https://cdn-images-1.medium.com/max/1600/0*2KRjDTWWS9t6h8Fa)
 
