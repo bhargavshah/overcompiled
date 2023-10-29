@@ -1,6 +1,6 @@
 ---
-title: Dealing with deadline stress
-subtitle: Losing stress without losing your mind
+title: What is stress and how to get rid of it?
+subtitle: Stress psycology and management
 summary: Losing stress without losing your mind
 date: 2020-07-02T13:12:45.713Z
 draft: false
@@ -8,7 +8,7 @@ featured: false
 categories: ['Well being']
 tags:
   - software
-  - front end
+  - stress psycology
   - mental health
   - stress management
   - well being
@@ -17,9 +17,9 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Have you ever worked on a high pressure, high burning, life sucking project? The stress is making you insane? Anxiety is all over your days, nights, meals and weekends? You can just not stop thinking about work?
+Have you ever worked on a high pressure, high burning, life sucking project? Constant stress is making you insane? Anxiety is all over your days, nights, meals and weekends? You can just not stop thinking about work?
 
-If this experience sounds familiar, you are not alone. Turns out anxiety is common in software development profile, and every person feels it to varying extents. I have worked on a few such projects. As I started having self awareness of the emotions I was going through, I decided to act on it.
+If this experience sounds familiar, you are not alone. Stress has increased 50% globally since the dawn of the Covid pandemic. I have worked on a few such projects. As I started having self awareness of the emotions I was going through, I decided to act on it.
 
 The techniques explained in this post do not bring about immediate change. They are dense and take time to get used to. I dealt with it in two fronts; technical and emotional.
 
