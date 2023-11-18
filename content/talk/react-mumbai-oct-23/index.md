@@ -1,21 +1,27 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "React Mumbai"
+title: "React Mumbai 2023 - Frontend performance using React lazy"
 subtitle: My experience speaking at an external community conference
 summary: My experience speaking at an external community conference
 authors: []
 tags: ['frontend', 'react', 'conferences', 'tech talks']
-categories: ['Talks']
+categories: ['Talks', 'React']
 date: 2023-10-28T10:00:00+05:30
 lastmod: 2023-10-28T10:00:00+05:30
+show_date: false
 featured: false
 draft: false
 image:
   filename: featured.jpg
   focal_point: SMART
-  preview_only: false
+  preview_only: true
 ---
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dhaw-RneJY0?si=1xKx1qIGUCH8GT6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<br>
 
 React Mumbai was a fun and happening event.
 The fact that it was organized by a bunch of young and fresh devs truly surprised me, because I was amazed by how well it was organised! It felt like the work of professional conference organizers. Shout out to this energetic bunch
